@@ -10,6 +10,7 @@
 <url> <loc>https://mailgo.js.org/docs/installation</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mailgo.js.org/docs/installation" /> </url>
 <url> <loc>https://mailgo.js.org/docs/keyboard</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mailgo.js.org/docs/keyboard" /> </url>
 <url> <loc>https://mailgo.js.org/docs/multiple</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mailgo.js.org/docs/multiple" /> </url>
+<url> <loc>https://mailgo.js.org/docs/telegram</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mailgo.js.org/docs/telegram" /> </url>
 <url> <loc>https://mailgo.js.org/docs/usage-tel</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mailgo.js.org/docs/usage-tel" /> </url>
 <url> <loc>https://mailgo.js.org/docs/usage</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mailgo.js.org/docs/usage" /> </url>
 </urlset>
